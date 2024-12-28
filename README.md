@@ -1,3 +1,4 @@
+<img src="baymax.jpg" align="center">
 <h1 align="center">Hi 👋, I'm Prabani Vinodya</h1>
 <h3 align="center">Exploring the intersection of technology and creativity.</h3>
 
